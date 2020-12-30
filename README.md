@@ -30,3 +30,9 @@ function soma(a,b){
     return a+b;
 }
 ```
+
+
+## Lista de tarefas
+
+- [x] Teste feito
+- [] Teste não feito
