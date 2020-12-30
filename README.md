@@ -24,4 +24,9 @@ Curso de GITHUB que estou fazendo!
 
 [Google](https://www.google.com)
 
-[![FF XV](img/ff.jpg)[Google](https://www.google.com)]
+# codigo
+```
+function soma(a,b){
+    return a+b;
+}
+```
