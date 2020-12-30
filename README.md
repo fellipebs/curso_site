@@ -35,4 +35,4 @@ function soma(a,b){
 ## Lista de tarefas
 
 - [x] Teste feito
-- [] Teste não feito
+- [ ] Teste não feito
