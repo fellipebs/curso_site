@@ -23,3 +23,5 @@ Curso de GITHUB que estou fazendo!
 ![FF XV](img/ff.jpg)
 
 [Google](https://www.google.com)
+
+[![FF XV](img/ff.jpg)[Google](https://www.google.com)]
