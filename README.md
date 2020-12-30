@@ -7,3 +7,9 @@ Curso de GITHUB que estou fazendo!
 
 **texto**
 *texto*
+
+#Linguagens:
+* HTML
+* CSS
+* PHP
+* JS
